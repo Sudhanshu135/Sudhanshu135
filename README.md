@@ -1,44 +1,95 @@
-# 👋 Hi, I'm Sudhanshu Sharma — Frontend Engineer
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm Sneha Parmar!
 
-Welcome to my GitHub! I'm a passionate frontend engineer with a strong focus on building interactive, immersive web experiences using modern web technologies.
-
-## 🚀 Tech Stack & Tools
-
-- **Core Technologies:**  
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)  
-  ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&style=flat-square)  
-  ![R3F](https://img.shields.io/badge/-React--Three--Fiber-20232a?logo=three.js&logoColor=white&style=flat-square)  
-  ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white&style=flat-square)
-
-- **State Management:**  
-  ![Redux](https://img.shields.io/badge/-Redux-764abc?logo=redux&logoColor=white&style=flat-square)  
-  ![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=react&style=flat-square)
-
-- **Styling:**  
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)  
-  ![CSS-in-JS](https://img.shields.io/badge/-CSS--in--JS-DB7093?style=flat-square)
-
-- **Others:**  
-  JavaScript, TypeScript, Framer Motion, Vite, Next.js
-
-## 🎯 Current Focus
-
-I’m currently diving deep into **Three.js** and **React Three Fiber**, exploring WebGL and 3D on the web to build next-level user interfaces and animations.
-
-## 🌱 Learning Goals
-
-- Advanced Three.js & Shader Development  
-- Creating performant 3D experiences  
-- Exploring WebXR / AR / VR in web apps  
-
-## 🧠 Projects
-
-Check out my repositories to see my work on interactive UIs, 3D portfolios, animated landing pages, and more.
-
-## 🤝 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/sudhanshu-sharma-086b01288/)  
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=784cf4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Generative+AI+Enthusiast;Hackathon+Winner+🏆;UI+/+UX+Design+Lover" alt="Typing SVG" />
+</div>
 
 ---
 
+### 🎨 About Me
+
+I am a **Full Stack Developer & Generative AI Enthusiast** who enjoys transforming ideas into modern, scalable, and visually stunning web applications. I specialize in building interfaces that are functional, intuitive, and beautiful.
+
+- 🏆 **3-time National Level Hackathon Winner**
+- 💻 **Expert in Data Structures & Algorithms**
+- 🎨 **Creative UI/UX Designer & Animator**
+- 🤖 **AI-driven Solution Architect**
+
+---
+
+### 🛠 Tech Stack
+
+#### 🚀 Programming & Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,express,tailwind,framer" />
+  </a>
+</p>
+
+#### 🗄 Backend & Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,prisma,postman" />
+  </a>
+</p>
+
+#### 🤖 Generative AI & Data Science
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,numpy,pandas,pytorch,tensorflow" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-1C3C3C?style=for-the-badge&logo=xgboost&logoColor=white" />
+</p>
+
+#### 🎨 Design & Creative Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,blender" />
+  </a>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+</p>
+
+---
+
+### 💼 Top Projects
+
+#### 🌌 [MultiverseGenAI](https://github.com/Sudhanshu135)
+> A Generative AI platform combining LangChain and vector databases to create multi-agent intelligent workflows.
+> **Tech:** Python, LangChain, Vector DB, Next.js, Node.js
+
+#### 💰 [MoneyXAI](https://github.com/Sudhanshu135)
+> An Explainable AI system for detecting money laundering transactions using XGBoost and SMOTE.
+> **Tech:** Python, XGBoost, Pandas, NumPy, Streamlit
+
+#### 🏥 [HealthXAI-Project](https://github.com/Sudhanshu135)
+> An AI-powered healthcare platform integrating image analysis, predictive modeling, and real-time monitoring.
+> **Tech:** Python, PyTorch, OpenCV, Node.js, Express.js
+
+#### 🎓 [CareerConnect](https://github.com/Sudhanshu135)
+> A full-stack career mentorship platform connecting mentors and mentees with interactive dashboards.
+> **Tech:** React, Next.js, Node.js, MongoDB
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudhanshu135&show_icons=true&theme=tokyonight" alt="Sudhanshu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu135&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/sudhanshu-sharma-086b01288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhanshu-sharma" height="30" width="40" /></a>
+<a href="https://github.com/Sudhanshu135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sudhanshu135" height="30" width="40" /></a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=784cf4&height=100&section=footer" />
+</div>
