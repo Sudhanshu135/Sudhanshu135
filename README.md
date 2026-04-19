@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm Sneha Parmar!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm Sudhanshu Sharma!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=784cf4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Generative+AI+Enthusiast;Hackathon+Winner+🏆;UI+/+UX+Design+Lover" alt="Typing SVG" />
