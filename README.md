@@ -10,7 +10,7 @@
 
 I am a **Full Stack Developer & Generative AI Enthusiast** specialized in building high-performance, scalable, and visually stunning applications. I bridge the gap between complex AI models and intuitive user experiences.
 
-- 🏆 **3-time National Level Hackathon Winner**
+- 🏆 **Third Rank at Moonhack Hackathon**
 - 💻 **Expert in Data Structures & Algorithms**
 - 🎨 **Creative UI/UX Designer & Animator**
 - 🤖 **Advanced AI & Large Language Model Integration**
